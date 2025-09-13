@@ -15,13 +15,10 @@ I am eager to learn frontend.
 - JavaScript
 
 ## Code example
-```java
-public class Example {
-    public static void main(String[] args) {
-        int[] array = new int[] {1, 2, 3, 4, 5, 6};
-        for (int number : array) {
-            System.out.println(number);
-        }
-    }
+```javaScript
+const array = [1, 2, 3, 4, 5, 6];
+
+for (const number of array) {
+    console.log(number);
 }
 ```
