@@ -4,7 +4,7 @@
 - Location : Russian Federation
 - Phone : +79123456789
 - Email : kirillinastepanida@gmail.com
-- GitHub : [GitHub](https://github.com/StepanidaKirillina)
+- GitHub : [GitHub](https://github.com/StepanidaKirillina1)
 
 ## About me
 I am eager to learn frontend.
